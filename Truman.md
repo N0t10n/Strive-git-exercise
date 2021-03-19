@@ -1,3 +1,1 @@
 Good morning, and in case I don't see ya, Good afternoon, good evening, and goodnight.
-
-Merge issue

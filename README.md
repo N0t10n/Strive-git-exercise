@@ -1,2 +1,3 @@
 # Marcos-repo
- D5
+ 
+ Adding 3 resources: 
